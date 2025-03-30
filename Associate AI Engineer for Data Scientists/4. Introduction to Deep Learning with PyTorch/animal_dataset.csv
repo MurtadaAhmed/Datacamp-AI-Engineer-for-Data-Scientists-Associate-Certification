@@ -1,0 +1,6 @@
+animal_name,hair,feathers,eggs,milk,predator,legs,tail,type
+sparrow,0,1,1,0,0,2,1,0
+eagle,0,1,1,0,1,2,1,0
+cat,1,0,0,1,1,4,1,1
+dog,1,0,0,1,0,4,1,1
+lizard,0,0,1,0,1,4,1,2
